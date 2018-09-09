@@ -1,0 +1,7 @@
+-classpath '/Users/pradnyas/Documents/work/testwork/github/project-examples/gradle-examples/gradle-example/shared/build/classes/java/main:/Users/pradnyas/Documents/work/testwork/github/project-examples/gradle-examples/gradle-example/shared/build/resources/main'
+-d '/Users/pradnyas/Documents/work/testwork/github/project-examples/gradle-examples/gradle-example/shared/build/docs/javadoc'
+-doctitle 'shared 1.0-SNAPSHOT API'
+-quiet 
+-windowtitle 'shared 1.0-SNAPSHOT API'
+'/Users/pradnyas/Documents/work/testwork/github/project-examples/gradle-examples/gradle-example/shared/src/main/java/org/gradle/shared/Person.java'
+'/Users/pradnyas/Documents/work/testwork/github/project-examples/gradle-examples/gradle-example/shared/src/main/java/org/gradle/shared/package-info.java'
